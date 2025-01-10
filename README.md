@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snaccident-png
 - 👀 I’m interested in building on my programming skills which are relatively new (2023).
-- 🌱 I’m currently learning programming desktop games in C#.
+- 🌱 I’m currently learning how to create desktop games in C# (like GUI games).
 - 💞️ I’m looking to collaborate on nothing. I created this Github account to try to get help with programming in C#.
 - 📫 How to reach me ---- I guess here on GitHub? Email details can be provided upon request but suspected spam accounts will be ignored.
 - 😄 Pronouns: He / his / him
